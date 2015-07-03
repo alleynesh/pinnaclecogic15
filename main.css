@@ -1,1 +1,9 @@
+body {
+  font-family:sans-serif;
+  background:purple;
+  color:black;
+}
 
+#pinnacle{
+  height:100px;
+}
